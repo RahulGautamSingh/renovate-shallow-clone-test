@@ -5,6 +5,7 @@
   "dependencyDashboard": false,
   "rangeStrategy": "bump",
   "rebaseWhen": "behind-base-branch",
+  "recreateWhen": "always",
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "lockFileMaintenance": { "enabled": false }
